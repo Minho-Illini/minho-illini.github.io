@@ -27,12 +27,12 @@ menu:
     link: /
     icon: ""
 
-  - text: Publications
-    link: /publications
+  - text: Publication & Media
+    link: /publication
     icon: ""
 
-  - text: Media
-    link: /media
+  - text: Presentation
+    link: /presentation
     icon: ""
 
   #- text: Blog
