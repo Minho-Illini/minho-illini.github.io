@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Minho Kim
-subtitle: Full-Stack Developer
+title: Minho Kim, PhD
+subtitle: ORISE SCINet Postdoctoral Fellow
 
 left_side:
   background_image: "./assets/images/IMG_0826.png"
