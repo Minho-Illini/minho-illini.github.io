@@ -7,11 +7,11 @@ layout: default
 
 ### [2024]
 - <U>Kim, M.</U>, Barnett-Neefs, C. Chavez, RA. Kealey, E. Wiedmann, M. Stasiewicz MJ. **[Risk assessment predicts most of the salmonellosis risk in raw chicken parts is concentrated in those few products with high-levels of high-virulent serotypes of Salmonella.](https://doi.org/10.1101/2024.03.08.584166)** *bioRxiv 2024.03.08.584166; doi: https://doi.org/10.1101/2024.03.08.584166*
-  - Media coverage by 68 news outlet https://plu.mx/plum/a/news?doi=10.1016/j.jfp.2024.100304 
+  - Media coverage by 68 news outlet [[link]](https://plu.mx/plum/a/news?doi=10.1016/j.jfp.2024.100304)
 
 ### [2023]
 - <U>Kim, M.</U>, Reyes GA, Cheng X, Stasiewicz MJ. 2023. **[Simulation Evaluation of Power of Sampling Plans to Detect Cronobacter in Powdered Infant Formula Production.](https://doi.org/10.1016/j.jfp.2023.100115)** *Journal of Food Protection. 86:100115. https://doi.org/10.1016/j.jfp.2023.100115*
-  - Media coverage by 14 news outlet [[News]](https://www.altmetric.com/details/150087143/news)
+  - Media coverage by 14 news outlet [[link]](https://www.altmetric.com/details/150087143/news)
 
 - Wu, J., Gathman, R. J., Portillo, J. Q., Gaulke, C., <U>Kim, M.</U>, & Stasiewicz, M. J. (2023). **[Aggregative Soil Sampling Using Boot Covers Compared to Soil Grabs From Commercial Romaine Fields Shows Similar Indicator Organism and Microbial Community Recoveries.](https://doi.org/10.1016/j.jfp.2023.100177)** *Journal of Food Protection, 86(11), 100177. https://doi.org/10.1016/j.jfp.2023.100177*
 
