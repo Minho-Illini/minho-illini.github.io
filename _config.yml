@@ -14,9 +14,9 @@ subtitle: Full-Stack Developer
 
 left_side:
   background_image: "./assets/images/IMG_0826.png"
-  background_color: "#F00"
-  close_button_color: "#F00"
-  text_color: "#F00"
+  background_color: "#484848"
+  close_button_color: "#000000"
+  text_color: "#FFFFFF"
 
 footer:
   copyright_text: "&copy; Minho Kim"
