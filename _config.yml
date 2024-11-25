@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Minho Kim, PhD
-subtitle: ORISE SCINet Postdoctoral Fellow
+subtitle: ORISE SCINet Postdoctoral Fellow<br>@ USDA-ARS
 
 left_side:
   background_image: "./assets/images/IMG_0826.png"
