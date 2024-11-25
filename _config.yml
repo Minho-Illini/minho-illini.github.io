@@ -9,17 +9,17 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
+title: Minho Kim
 subtitle: Full-Stack Developer
 
 # left_side:
-#   background_image: "./assets/images/left-background.jpg"
+#   background_image: "./assets/images/IMG_0826.png"
 #   background_color: "#F00"
 #   close_button_color: "#F00"
 #   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Christian Ezeani"
+  copyright_text: "&copy; Minho Kim"
 
 # Side Menu Links
 menu:
