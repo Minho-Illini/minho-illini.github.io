@@ -50,7 +50,7 @@ layout: default
 | B.S. | March 2013 - May 2019 | Food Science & Technology, Major in Food & Nutrition, <br>Chung-Ang University | Seoul, South Korea | 
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
-    <h2> 👩🏻‍💻 Work experience </h2>
+    <h2> 🧑‍🔬 Work experience </h2>
 </div>
 
 | Role | Duration | Company | Location |
