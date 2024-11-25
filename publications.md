@@ -10,7 +10,7 @@ layout: default
   - Media coverage by 68 news outlet https://plu.mx/plum/a/news?doi=10.1016/j.jfp.2024.100304 
 
 - <U>Kim, M.</U>, Reyes GA, Cheng X, Stasiewicz MJ. 2023. **Simulation Evaluation of Power of Sampling Plans to Detect Cronobacter in Powdered Infant Formula Production.** Journal of Food Protection. 86:100115. https://doi.org/10.1016/j.jfp.2023.100115 
-*Media coverage by 14 news outlet https://www.altmetric.com/details/150087143/news   
+  - Media coverage by 14 news outlet https://www.altmetric.com/details/150087143/news   
 
 - Wu, J., Gathman, R. J., Portillo, J. Q., Gaulke, C., <U>Kim, M.</U>, & Stasiewicz, M. J. (2023). **Aggregative Soil Sampling Using Boot Covers Compared to Soil Grabs From Commercial Romaine Fields Shows Similar Indicator Organism and Microbial Community Recoveries.** Journal of Food Protection, 86(11), 100177. https://doi.org/10.1016/j.jfp.2023.100177
 
