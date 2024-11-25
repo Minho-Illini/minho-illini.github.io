@@ -35,7 +35,9 @@ layout: default
 # Minho Kim
 
 <div style="width: 90%; float: left; margin: 0px auto;"> 
-    Hello! TBU.
+Dr. Minho Kim is a SCINet/AI-COE fellow under the mentorship of Dr. Michael Rothrock (USDA-ARS, Athens, GA). His research focuses on leveraging data science tools, such as predictive modeling, to enhance food safety. In his previous work at the University of Illinois, he developed a simulation tool to optimize sampling plans for detecting foodborne pathogens in powdered infant formula. In another project, he conducted a risk assessment to evaluate the risk of specific serotypes and levels of Salmonella in raw poultry products. 
+
+Currently, Dr. Kim is working to identify important predictors that may affect pathogen loads in the preharvest environment of pasture-raised broilers. Dr. Kim is interested in how differences in virulence among genes or strains of Salmonella could be used to inform public health efforts, as well as exploring how reducing overall pathogen loads in the preharvest environment can contribute to lowering public health risks.
 </div>
 
 <div style="width: 100%; float: left; margin: 0px auto;"> 
