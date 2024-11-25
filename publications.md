@@ -5,7 +5,6 @@ layout: default
 # Publications
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=dsGwIKAAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
-### [2024]
 - <U>Kim, M.</U>, Barnett-Neefs, C. Chavez, RA. Kealey, E. Wiedmann, M. Stasiewicz MJ. **Risk assessment predicts most of the salmonellosis risk in raw chicken parts is concentrated in those few products with high-levels of high-virulent serotypes of Salmonella.** bioRxiv 2024.03.08.584166; doi: https://doi.org/10.1101/2024.03.08.584166 
   - Media coverage by 68 news outlet https://plu.mx/plum/a/news?doi=10.1016/j.jfp.2024.100304 
 
