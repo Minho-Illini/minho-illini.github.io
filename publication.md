@@ -5,6 +5,9 @@ layout: default
 # Publications
 <div style="text-align: center"> <a href="https://scholar.google.com/citations?user=dsGwIKAAAAAJ&hl=en" target="_blank">Google Scholar</a> </div>
 
+### [2025]
+- Kealey E, Shick M, <U>Kim M</U>, Chavez R, Shetley G, Stenger D, Perreau KA, Cooke A, Barnett-Neefs C, Stasiewicz MJ. **[Hurdle Approach to Simulate Corn Wet Milling Inactivation of Undesirable Microorganisms: A Pilot Scale Microbial Challenge Study Using Salmonella Surrogate Enterococcus faecium.](https://pubmed.ncbi.nlm.nih.gov/39675632/)** J Food Prot. 2025 Jan 2;88(1):100432. doi: 10.1016/j.jfp.2024.100432. Epub 2024 Dec 14. PMID: 39675632.
+
 ### [2024]
 - <U>Kim, M.</U>, Barnett-Neefs, C. Chavez, RA. Kealey, E. Wiedmann, M. Stasiewicz MJ. **[Risk assessment predicts most of the salmonellosis risk in raw chicken parts is concentrated in those few products with high-levels of high-virulent serotypes of Salmonella.](https://doi.org/10.1101/2024.03.08.584166)** bioRxiv 2024.03.08.584166; doi: https://doi.org/10.1101/2024.03.08.584166. *Media coverage by [68 news outlet.](https://plu.mx/plum/a/news?doi=10.1016/j.jfp.2024.100304)*
 
